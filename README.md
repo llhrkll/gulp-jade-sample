@@ -1,9 +1,9 @@
-grunt-jade-sample
+gulp-jade-sample
 =================
 
-This is just an exmaple how Grunt handles Jade JST and how awesome it is!
+example for gulp + jade
 
-License
+Licensed
 -------
 
 Licensed under the Unlicense.
